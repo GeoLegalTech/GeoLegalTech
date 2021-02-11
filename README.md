@@ -1,11 +1,11 @@
 ### Hola 👋
 
-We are GeoLegalTech,we develop provision of analysis based on geoinformation. We provide relevant data sources for commercial enterprises and its applicaton.
+We are GeoLegalTech, we develop the provision of analysis based on geoinformation. We provide relevant data sources for commercial enterprises and their application.
 
 - 🐱‍💻 We scrap the web.
 - 📊    We do Data Science.
 - 🤖    We can Machine Learning.
-- 🧑‍🏫 We provide trainning.
+- 🧑‍🏫 We provide training.
 - 🐕    We have a dog in our office.
 - 🇩🇪    We are based in Germany, Aachen.
 
