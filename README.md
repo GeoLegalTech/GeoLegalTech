@@ -7,7 +7,7 @@ We are GeoLegalTech, we develop the provision of analysis based on geoinformatio
 - 🤖    We can Machine Learning.
 - 🧑‍🏫 We provide training.
 - 🐕    We have a dog in our office.
-- 🇩🇪    We are based in Germany, Aachen.
+- 🇩🇪    We are based in Aachen, Germany.
 
 Visit us ---> www.geolegaltech.com
 
