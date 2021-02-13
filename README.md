@@ -6,6 +6,7 @@ We are GeoLegalTech, we develop the provision of analysis based on geoinformatio
 - 📊    We do Data Science.
 - 🤖    We can Machine Learning.
 - 🧑‍🏫 We provide training.
+- 🗣️    We speak German, English & Spanish.
 - 🐕    We have a dog in our office.
 - 🇩🇪    We are based in Aachen, Germany.
 
