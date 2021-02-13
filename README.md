@@ -2,7 +2,7 @@
 
 We are GeoLegalTech, we develop the provision of analysis based on geoinformation. We provide relevant data sources for commercial enterprises and their application.
 
-- 🐱‍💻 We scrap the web.
+- 👨🏼‍💻 We scrap the web.
 - 📊    We do Data Science.
 - 🤖    We can Machine Learning.
 - 🧑‍🏫 We provide training.
